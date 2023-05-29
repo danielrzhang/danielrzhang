@@ -4,7 +4,6 @@
 <a href="https://github.com/danielrzhang" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-</a>
 <a href="https://linkedin.com/in/danielrzhang" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -13,7 +12,8 @@
 </a>
 <a href="https://twitter.com/astroknowsall" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-
+</a>
+<p></p>
 I’m a first-year computer science student 🧑‍💻 at the University of Waterloo, and I'm interested in full-stack development, software engineering, and computer programming.
 
 <br/>  
