@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel Zhang</h1>
-<h3 align="center">a first-year CS student at the University of Waterloo</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielrzhang" alt="danielrzhang" /></a> </p>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h3 align="center">A first-year CS student at the University of Waterloo</h3>
 
 - 📫 How to reach me **danielrzhang@gmail.com**
 
@@ -17,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielrzhang&show_icons=true&locale=en&layout=compact" alt="danielrzhang" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielrzhang&show_icons=true&locale=en" alt="danielrzhang" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielrzhang&" alt="danielrzhang" /></p>
