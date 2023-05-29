@@ -28,8 +28,7 @@ I have done competitive programming and video game development in the past, but 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## What I'm Doing
 
 - 🔭 I’m currently working on a [Quiz App](https://github.com/danielrzhang/quiz-app) using Android Studio  
   
@@ -38,13 +37,6 @@ I have done competitive programming and video game development in the past, but 
   
 
 - ⚡ Fun fact: My go-to programming language is Java ☕  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
