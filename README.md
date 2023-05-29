@@ -17,8 +17,6 @@
 I’m a first-year computer science student 🧑‍💻 at the University of Waterloo, and I'm interested in full-stack development, software engineering, and computer programming.
 
 <br/>  
-
-
 ## About Me
 
 - 💻 I have experience with competitive programming and video game development
@@ -28,8 +26,6 @@ I’m a first-year computer science student 🧑‍💻 at the University of Wat
 - ⚡ Fun fact: My go-to programming language is Java ☕  
 
 <br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
