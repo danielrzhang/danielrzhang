@@ -16,8 +16,7 @@
   
 
 
-
-### Nice to meet you!  
+ 
 I’m a first-year computer science student at the University of Waterloo. My areas of interest lie in full-stack development, software engineering, and computer programming. 
 
 I possess well-developed problem-solving, communication, and leadership skills, and I have experience with a wide variety of programming languages, including Java, Python, C, C++, and Racket. Furthermore, I have gained hands-on experience with web development and can proficiently use HTML, CSS, and JavaScript, as well as Bootstrap and React frameworks, to create engaging web pages. 
