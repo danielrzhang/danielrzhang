@@ -1,4 +1,6 @@
-## Hey there 👋, I'm Daniel Zhang!  
+<p align="center">
+  ## Hey there 👋, I'm Daniel Zhang! 
+</p>
   
 
 <a href="https://github.com/danielrzhang" target="_blank">
