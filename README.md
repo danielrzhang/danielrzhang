@@ -16,6 +16,10 @@
   
 
 
+
+
+
+
  
 I’m a first-year computer science student at the University of Waterloo. My areas of interest lie in full-stack development, software engineering, and computer programming.  
 
