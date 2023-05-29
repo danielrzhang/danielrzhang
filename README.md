@@ -17,22 +17,20 @@
 
 
  
-I’m a first-year computer science student at the University of Waterloo. My areas of interest lie in full-stack development, software engineering, and computer programming. 
-
-I possess well-developed problem-solving, communication, and leadership skills, and I have experience with a wide variety of programming languages, including Java, Python, C, C++, and Racket. Furthermore, I have gained hands-on experience with web development and can proficiently use HTML, CSS, and JavaScript, as well as Bootstrap and React frameworks, to create engaging web pages. 
-
-I have done competitive programming and video game development in the past, but my current focus is on mobile app development using Android Studio and Kotlin. I enjoy learning about the latest technologies and FOSS, and I aspire to create my own software in the future that will positively impact the world.   
-  
+I’m a first-year computer science student at the University of Waterloo. My areas of interest lie in full-stack development, software engineering, and computer programming.  
 
 <br/>  
 
 
-## What I'm Doing
+## About Me
+
+- ⌚ I have dabbled in competitive programming and video game development
+
 
 - 🔭 I’m currently working on a [Quiz App](https://github.com/danielrzhang/quiz-app) using Android Studio  
   
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and Kotlin  
+- 🌱 I’m currently learning how to design webpages using HTML, CSS, and JavaScript, and Android mobile app development using Kotlin  
   
 
 - ⚡ Fun fact: My go-to programming language is Java ☕  
