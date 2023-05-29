@@ -22,8 +22,8 @@ I’m a first-year computer science student at the University of Waterloo, and I
 ## About Me
 
 - ⌚ I have dabbled in competitive programming and video game development in the past
-- 🌱 I’m currently learning how to design webpages using HTML, CSS, and JavaScript, and Android mobile app development using Kotlin  
-- 🔭 I’m currently working on a [Quiz App](https://github.com/danielrzhang/quiz-app) using Android Studio  
+- 🌱 I’m currently learning how to design webpages using HTML, CSS, and JavaScript
+- 🔭 I’m currently working on a [Quiz App](https://github.com/danielrzhang/quiz-app) using Android Studio and Kotlin
 - ⚡ Fun fact: My go-to programming language is Java ☕  
 
 <br/>  
