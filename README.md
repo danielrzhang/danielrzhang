@@ -12,16 +12,10 @@
 </a>
 <a href="https://instagram.com/daniel_.zhang" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+</a>
 
-
-
-
-
-
- 
-I’m a first-year computer science student at the University of Waterloo. My areas of interest lie in full-stack development, software engineering, and computer programming.  
+\n\n 
+I’m a first-year computer science student at the University of Waterloo, and I'm interested in full-stack development, software engineering, and computer programming.  
 
 <br/>  
 
