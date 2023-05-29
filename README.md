@@ -14,7 +14,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
-\n\n 
 I’m a first-year computer science student at the University of Waterloo, and I'm interested in full-stack development, software engineering, and computer programming.  
 
 <br/>  
@@ -22,15 +21,9 @@ I’m a first-year computer science student at the University of Waterloo, and I
 
 ## About Me
 
-- ⌚ I have dabbled in competitive programming and video game development
-
-
-- 🔭 I’m currently working on a [Quiz App](https://github.com/danielrzhang/quiz-app) using Android Studio  
-  
-
+- ⌚ I have dabbled in competitive programming and video game development in the past
 - 🌱 I’m currently learning how to design webpages using HTML, CSS, and JavaScript, and Android mobile app development using Kotlin  
-  
-
+- 🔭 I’m currently working on a [Quiz App](https://github.com/danielrzhang/quiz-app) using Android Studio  
 - ⚡ Fun fact: My go-to programming language is Java ☕  
 
 <br/>  
@@ -71,16 +64,3 @@ I’m a first-year computer science student at the University of Waterloo, and I
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
