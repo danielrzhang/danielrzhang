@@ -57,9 +57,10 @@ I’m a first-year CS student 🧑‍💻 studying the University of Waterloo, a
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-![danielrzhang's Stats](https://github-readme-stats.vercel.app/api?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&count_private=true" height="70px">
 
 </td><td valign="top" width="50%">
 
-![danielrzhang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&layout=compact" height="70px">
+  
 </td></tr></table>  
