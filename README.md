@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <p></p>
-I’m a first-year computer science student 🧑‍💻 at the University of Waterloo, and I'm interested in full-stack development, software engineering, and computer programming.
+I’m a first-year computer science student 🧑‍💻 at the University of Waterloo, and I'm interested in full-stack development, app development, and computer programming.
 
 <br/>  
 
