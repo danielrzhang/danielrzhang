@@ -14,17 +14,18 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <p></p>
-I’m a first-year computer science student 🧑‍💻 at the University of Waterloo, and I'm interested in full-stack development, app development, and computer programming.
+I’m a first-year CS student 🧑‍💻 studying the University of Waterloo, and I'm interested in full-stack development, app development, and computer programming!
 
 <br/>  
 
 ## About Me
 
-- 💻 I have experience with competitive programming and video game development
-- 🔭 I’m currently working on a [Quiz App](https://github.com/danielrzhang/quiz-app) using Android Studio and Kotlin
-- 🌱 I’m learning how to design webpages using HTML, CSS, and JavaScript
-- 🚀 I'm looking forward to developing my personal website in the near future!
-- ⚡ Fun fact: My go-to programming language is Java ☕  
+- 💻 I have done competitive programming and video game development in the past
+- ⚡ I am experienced with the Java, Python, C, and C++ programming languages
+- 🔭 Working on a [Quiz App](https://github.com/danielrzhang/quiz-app) using Android Studio and Kotlin
+- 🌱 I am currently learning how to design webpages using HTML, CSS, and JavaScript
+- 🚀 Looking forward to developing my personal website in the near future!
+- 🤖 Fun fact: My go-to programming language is Java ☕  
 
 <br/>  
 
@@ -56,10 +57,9 @@ I’m a first-year computer science student 🧑‍💻 at the University of Wat
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=danielrzhang&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+![danielrzhang's Stats](https://github-readme-stats.vercel.app/api?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
+![danielrzhang's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </td></tr></table>  
