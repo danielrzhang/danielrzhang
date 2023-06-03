@@ -61,6 +61,6 @@ I’m a first-year CS student 🧑‍💻 studying the University of Waterloo, a
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&layout=compact" margin-top="20px" height="180px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&layout=compact" margin-top="100px" height="180px">
   
 </td></tr></table>  
