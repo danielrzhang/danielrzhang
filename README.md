@@ -22,7 +22,7 @@ I’m a first-year CS student 🧑‍💻 at the University of Waterloo, and I'm
 
 - 💻 I have done competitive programming and video game development in the past
 - ⚡ I am experienced with Java, Python, C, and C++
-- 🔭 As of May 2023, I am working on a [Quiz App](https://github.com/danielrzhang/quiz-app) using Android Studio and Kotlin
+- 🔭 As of May 2023, I am using Android Studio and Kotlin to develop a [Quiz App](https://github.com/danielrzhang/quiz-app)
 - 🌱 I am currently learning how to design webpages using HTML, CSS, and JavaScript
 - 🚀 In the near future, I will develop my personal website!
 - 🤖 Fun fact: My go-to programming language is Java ☕  
