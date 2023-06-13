@@ -54,5 +54,5 @@ I’m a first-year CS student 🧑‍💻 at the University of Waterloo, and I'm
 ## Github Stats  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&count_private=true" height="200px"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200px">
+<img src="https://github-readme-stats.vercel.app/api?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" height="200px"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200px">
 --- | --- 
