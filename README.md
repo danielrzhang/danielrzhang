@@ -4,10 +4,7 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
-
 I’m a first-year CS student at the University of Waterloo, and I'm interested in computer programming, full-stack development, and app development!
-
-<br/>  
 
 ## 🚀 About Me
 - 🧑‍💻 I have done a lot of competitive programming and video game development in the past.
@@ -16,8 +13,6 @@ I’m a first-year CS student at the University of Waterloo, and I'm interested 
 - 🌱 I am currently learning how to design webpages using HTML, CSS, and JavaScript.
 - ⏰ In the near future, I will be developing my personal website!
 - 🤖 Fun fact: I first started coding in 2019.
-
-<br/>  
 
 ## 💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
