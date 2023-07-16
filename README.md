@@ -47,5 +47,5 @@ I’m a first-year CS student at the University of Waterloo, and I have a keen i
 <br/>  
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" height="200px"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&exclude_repo=Leetcode,hungry_snake,Tank-Buster,Advent-of-Code-2021,DMOJ-Java,ICS4U-Computer-Science,Project-Euler,ICS3U-Introduction-to-Computer-Science,CCC-Canadian-Computing-Competition,HackerRank-Java,CCC-2021,CodingBat-Java&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200px">
+<img src="https://github-readme-stats.vercel.app/api?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" height="200px"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&exclude_repo=Leetcode,hungry_snake,Tank-Buster,Advent-of-Code-2021,DMOJ-Java,ICS4U-Computer-Science,Project-Euler,ICS3U-Introduction-to-Computer-Science,CCC-Canadian-Computing-Competition,HackerRank-Java,CCC-2021,CodingBat-Java,battleship-ai-simulator&theme=dark&show_icons=true&hide_border=true&layout=compact" height="200px">
 --- | --- 
