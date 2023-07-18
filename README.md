@@ -9,8 +9,8 @@ I’m a first-year CS student at the University of Waterloo, and I have a keen i
 ## 🚀 About Me
 - 🧑‍💻 I have done a lot of competitive programming and video game development in the past.
 - ⚡ I am experienced with the programming languages Java, Kotlin, Python, C, and C++.
-- 🔭 I have recently used Android Studio and Kotlin to develop a [Quiz App](https://github.com/danielrzhang/quiz-app)\.
-- 🌱 I am currently learning how to design webpages using HTML, CSS, and JavaScript.
+- 🔭 I have recently used Android Studio and Kotlin to develop a [Quiz App](https://github.com/danielrzhang/quiz-app).
+- 🌱 I am currently learning how to design webpages using HTML, CSS, and JavaScript. Check out my [Currency Converter](https://github.com/danielrzhang/currency-converter)!
 - ⏰ In the near future, I will be developing my personal website!
 - 🤖 Fun fact: I first started coding in 2019.
 
