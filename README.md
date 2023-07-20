@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daniel_.zhang/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=danielrzhang@gmail.com&su=&body&fs=1&tf=cm)
 
-I’m a first-year CS student at the University of Waterloo, and I am passionate about computer programming, app development, and full-stack development!
+I’m an incoming second-year CS student at the University of Waterloo, and I am passionate about computer programming, app development, and full-stack development!
 
 ## 🚀 About Me
 - 🧑‍💻 I have done a lot of competitive programming and video game development in the past.
