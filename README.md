@@ -48,6 +48,6 @@ I’m an incoming second-year CS student at the University of Waterloo, and I am
 
 ## GitHub Stats  
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" height="200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&exclude_repo=zombie-rampage,DMOJ-Java,crystalnite,&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" height="200px">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielrzhang&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true" height="225px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielrzhang&exclude_repo=zombie-rampage,DMOJ-Java,crystalnite,&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" width="357px">
 </p>
