@@ -9,7 +9,7 @@ I’m an incoming second-year CS student at the University of Waterloo, and I am
 ## 🚀 About Me
 - 🧑‍💻 I have done a lot of competitive programming and video game development in the past.
 - ⚡ I am experienced with the programming languages Java, Kotlin, Python, C, and C++.
-- 🌱 I am currently learning how to design webpages using HTML, CSS, and JavaScript. Check out my [Currency Converter](https://github.com/danielrzhang/currency-converter) and [Weather App](https://github.com/danielrzhang/weather-app)!
+- 🌱 I am currently learning how to design webpages using HTML, CSS, and JavaScript. Check out my currency converter [xChanger](https://github.com/danielrzhang/currency-converter) and my weather app [Weathercast](https://github.com/danielrzhang/weather-app)!
 - ⏰ In the near future, I will be developing my personal website!
 - 🤖 Fun fact: I first started coding in 2019.
 
