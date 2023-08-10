@@ -7,7 +7,7 @@
 I’m an incoming second-year CS student at the University of Waterloo, and I am passionate about computer programming, app development, and full-stack development!
 
 ## 🚀 About Me
-- 🧑‍💻 I have done a lot of competitive programming and video game development in the past.
+- 🧑‍💻 I have previous experience with competitive programming and video game development.
 - ⚡ I am experienced with the programming languages Java, Kotlin, Python, C, and C++.
 - 🌱 I am learning how to design webpages using HTML, CSS, and JavaScript. Check out my weather app [Weathercast](https://github.com/danielrzhang/weathercast) and my currency converter [currencyXChanger](https://github.com/danielrzhang/currencyXchanger)!
 - ⏰ In the near future, I will be developing my personal website!
