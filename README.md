@@ -7,10 +7,9 @@
 I’m a third-year CS student at the University of Waterloo, and I am passionate about computer programming, app development, and full-stack development!
 
 ## 🚀 About Me
-- 🧑‍💻 I have previous experience with frontend, app, and video game development. I've also done competitive programming in the past.
-- ⚡ I am highly proficient with Java, Kotlin, Python, C, and C++.
-- 🌱 Check out my recent projects [Weathercast](https://github.com/danielrzhang/weathercast) and [currencyXchanger](https://github.com/danielrzhang/currencyXchanger)!
-- ⏰ My personal portfolio website is now complete! Find it at https://danielrzhang.github.io/.
+- 🧑‍💻 I have previous experience with full-stack and web development
+- ⚡ I am highly proficient with Java, Python, Kotlin, and C/C++.
+- 🌱 Check out my recent project Luma!
 
 ## 💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,10 +37,6 @@ I’m a third-year CS student at the University of Waterloo, and I am passionate
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <br/>  
